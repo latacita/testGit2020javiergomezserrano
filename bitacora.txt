@@ -26,5 +26,10 @@
 13	add+commit
 14	checkout master
 	merge Antecedentes
-15	merge DatosPersonales
+15	merge DatosPersonales				Hubo un error de mergeo que resolví quedándome con la versión de bitacora de Datos
+							Personales
+16	add+commit					Paso 16 en el commit
+17	tag FusionTerminada
+18	git push					En el sourcetree se selecciona push all tags tambien
+19	add+commit+push
 	
