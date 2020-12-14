@@ -1,8 +1,21 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):Gómez Serrano, Javier                                      %%
 %%==================================================================%%
 
- Paso   Acción                       Notas
-====== ============================ ================================
+ Paso   Acción                       			Notas
+====== ============================ 			================================
+01	clone
+02	checkout -b DatosPersonales
+03	Anhadido al fichero PlanVacunacion.txt 
+	el DNI y la vacuna Moderna.
+04	Fichero bitacora.txt editado con nombre,
+	apellidos y pasos hasta ahora.
+05	add+commit
+06	checkout master					master es la rama desde la que se creó la rama Datos Personales
+07	checkout -b Antecedentes
+08	Creado el fichero antecedentes.txt y rellenado
+	con antecedentes.
+09	add+commit
+	
