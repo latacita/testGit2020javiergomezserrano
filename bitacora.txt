@@ -1,8 +1,12 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):Gómez Serrano, Javier                                      %%
+%% Alumno (Apellidos, Nombre):Gómez Serrano, Javier                 %%
 %%==================================================================%%
+
+Han habido pasos que he realizado siguiendo sourcetree pero también he usado el terminal en todos aquellos que involucran
+un git push, debido a que mi sourcetree tiene un problema a la hora de hacer el push desde el entorno gráfico, los hice por el terminal
+todos los push, las tags y resolución de conflictos en el paso 15 los he resuelto desde sourcetree
 
  Paso   Acción                       			Notas
 ====== ============================ 			================================
