@@ -18,4 +18,13 @@
 08	Creado el fichero antecedentes.txt y rellenado
 	con antecedentes.
 09	add+commit
+10	checkout master
+11	checkout DatosPersonales
+	push --set-upstream origin DatosPersonales
+12							Se pueden hacer por fast-forward ya que ambas no tienen en común ningún fichero
+							que se ha visto modificado de una forma diferente para cada una.
+13	add+commit
+14	checkout master
+	merge Antecedentes
+15	merge DatosPersonales
 	
